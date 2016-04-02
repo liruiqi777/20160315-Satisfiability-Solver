@@ -1,1 +1,1 @@
-# satisfiabilitySolver
+# Satisfiability Solver
